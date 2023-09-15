@@ -1,0 +1,23 @@
+{
+    "name": "Dythervin.Game.Framework.Model",
+    "rootNamespace": "Dythervin.Game.Framework",
+    "references": [
+        "GUID:0d2722be3221441990b3d439a49d3d00",
+        "GUID:0031e864adfd431f8c8176db3609a3cb",
+        "GUID:3899ac7c2607eb74a9371ea2e9481667",
+        "GUID:b11a47de063242e48cced591c7538b96",
+        "GUID:d0fadda6d9d94edca98110f00ae07c4c",
+        "GUID:2203422efc3145ada22bd322326e6480",
+        "GUID:476e67eba20943868b0ff4cb74ed8146",
+        "GUID:8dc57192e6514b7cbf0e53a25c177905"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

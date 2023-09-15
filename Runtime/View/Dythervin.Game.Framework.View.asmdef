@@ -1,0 +1,29 @@
+{
+    "name": "Dythervin.Game.Framework.View",
+    "rootNamespace": "Dythervin.Game.Framework.View",
+    "references": [
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:0d2722be3221441990b3d439a49d3d00",
+        "GUID:861d6ffd1ea84fe482be0d9bc14f5a32",
+        "GUID:0031e864adfd431f8c8176db3609a3cb",
+        "GUID:3899ac7c2607eb74a9371ea2e9481667",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:b1a4a8cafa6a5274d8b627054dcdbadf",
+        "GUID:7afb353a1daa88e4797d2da07d684a54",
+        "GUID:69448af7b92c7f342b298e06a37122aa",
+        "GUID:d0fadda6d9d94edca98110f00ae07c4c",
+        "GUID:2203422efc3145ada22bd322326e6480",
+        "GUID:476e67eba20943868b0ff4cb74ed8146",
+        "GUID:8dc57192e6514b7cbf0e53a25c177905"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

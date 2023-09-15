@@ -1,0 +1,21 @@
+{
+  "name": "com.dythervin.unity.gamefw",
+  "version": "0.0.1",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "keywords": [],
+  "author": {
+    "name": "Dythervin",
+    "email": "dythervin@gmail.com",
+    "url": "https://github.com/dythervin"
+  },
+  "displayName": "game framework",
+  "dependencies": {
+    "com.dythervin.unity.core": "1.0.3",
+    "com.dythervin.unity.callbacks": "1.0.3",
+    "com.dythervin.unity.routines": "1.0.2",
+    "com.dythervin.unity.updaters": "1.0.3",
+    "com.dythervin.unity.collections": "1.0.3",
+    "com.dythervin.unity.data.persistent": "1.0.2"
+  }
+}
